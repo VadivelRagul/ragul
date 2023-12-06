@@ -1,1 +1,1 @@
-# ragul. 
+# ragul. delete 
